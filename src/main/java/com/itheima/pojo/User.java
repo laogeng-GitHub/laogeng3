@@ -7,6 +7,7 @@ public class User {
     /*又有一个IT狗修改了代码*/
     private String xxoo;
     private String x;
+    private String AAAAA;
 
 
 
